@@ -13,7 +13,7 @@ android {
 }
 
 dependencies {
-    compile "com.android.support:support-v4:22.2.1"
+    compile "com.android.support:support-v4:24.1.1"
 }
 
-apply from: rootProject.file('library/gradle-mvn-push.gradle')
+//apply from: rootProject.file('library/gradle-mvn-push.gradle')
